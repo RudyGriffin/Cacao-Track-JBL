@@ -1,8 +1,8 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Landing from './components/pages/Landing';
-import LoginComprador from './components/pages/Registro';
-import Login from './components/pages/login';
+import Landing from './components/Vistaprincipal/Landing';
+import LoginComprador from './components/Vistaregistrocomprador/Registro';
+import Login from './components/Vistalogin/login';
 
 const App = () => {
   return (

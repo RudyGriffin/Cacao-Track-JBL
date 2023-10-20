@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import '../css/Registro.css'; 
-import Image from '../img/RgUserIMG.png'; 
+import './Registro.css'; 
+import Image from '../../img/RgUserIMG.png'; 
 import { Link } from 'react-router-dom';
 
 

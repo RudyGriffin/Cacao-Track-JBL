@@ -1,7 +1,7 @@
 import React from 'react';
-import '../css/landing.css';
-import cacaoImage from '../img/cacao.jpg'; 
-import logoImage from '../img/logo.png'; 
+import './landing.css';
+import cacaoImage from '../../img/cacao.jpg'; 
+import logoImage from '../../img/logo.png'; 
 import { Link } from 'react-router-dom';
 
 const Landing = () => {

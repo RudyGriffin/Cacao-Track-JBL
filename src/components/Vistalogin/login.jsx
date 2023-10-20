@@ -1,5 +1,5 @@
 import React from "react";
-import FooterV1 from "../footers/footerV1";
+import FooterV1 from "../Footers/footerV1";
 
 const Login = () => {
 

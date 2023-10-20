@@ -9,7 +9,7 @@
     height: 517px;
     border: 1px solid #e5e5e5;
     box-sizing: border-box;
-    background-image: url(../img/cacao.jpg);
+    background-image: url(../../img/cacao.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@
     width: 518px;
     height: 538px;
     border-radius: 8px;
-    background-image: url(../img/logo.png);
+    background-image: url(../../img/logo.png);
     background-size: cover;
     background-repeat: no-repeat;
   }
